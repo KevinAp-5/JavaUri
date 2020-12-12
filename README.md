@@ -1,2 +1,2 @@
 # JavaUri
-Coding in Baiacu's exercises
+Some simple exercices to beginners
